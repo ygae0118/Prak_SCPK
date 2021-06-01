@@ -1,0 +1,3 @@
+Buatlah perceptron untuk mengenali pola fungsi logika “or” menggunakan dua (2) variabel
+x1 dan x2 dengan bobot awal w = [-1, 1] dan bias b=[1]. Serta tampilkan bobot dan bias
+optimalnya menggunakan MATLAB.
