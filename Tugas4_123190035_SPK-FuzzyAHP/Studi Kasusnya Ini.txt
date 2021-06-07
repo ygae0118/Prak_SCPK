@@ -1,0 +1,34 @@
+Nama : Muhammad Azis B J
+NIM  : 123190035
+
+Sebuah komunitas seni tulisan akan mendaftarkan beberapa anggota untuk mengikuti kontes menulis sebuah sajak
+untuk mengikuti kontes menulis sajak tersebut ketua pelaksana kontes mencantumkan bobot kriteria yang harus dimiliki 
+terhadap untuk mengikuti kontes tersebut yaitu sebagai berikut,
+
+Kriteria	Kerapihan Tulisan	Keserasian Kata		Sikap
+Kerapihan	1			0.25			0.5
+Keserasian	2			1			0.25
+Sikap/Perilaku	1			2			1
+
+Dengan Asumsi,
+
+- Sikap 0.5 lebih pening dari Kerapihan
+- Sikap 0.25 lebih penting dari Keserasian
+- Keserasian Kata 0.25 lebih penting dari Kerapihan
+
+sebelum dilakukan pendaftaran kontes para anggota komunitas dilakukan tes dalam menulis sebuah sajak dari hasil tes
+tersebut didapatkan data-data nilai pada setiap anggota yang didaftarkan sebagai berikut,
+
+Nama		Kerapihan Tulisan	Keserasian Kata		Sikap
+Bara		70			84			78
+Praswara	68			91			89
+Andreo		70			78			80
+Bagas		64			81			76
+Fatimah		84			69			90
+Zahra		93			78			79
+Yongae		86			80			81
+
+Berapa jumlah anggota yang akan dapat memenuhi kriteria dalam mengikuti kontes setelah diseleksi !!!
+
+ 
+
