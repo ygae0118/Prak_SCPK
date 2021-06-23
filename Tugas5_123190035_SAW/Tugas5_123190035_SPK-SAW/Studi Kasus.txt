@@ -1,0 +1,14 @@
+Sebuah Komunitas Seni Tulis ingin mengikutsertakan anggotanya dalam 
+sebuah kontes seni dalam dalam bidang (event) menulis sebuah syair sajak, 
+dan didalam komunitas tersebut terdapat anggota yang terbilang dalam jumlah 
+banyak sehingga pemimpin komunitas kebingungan dalam memilih anggotanya yang 
+akan diikutsertakan dalam kontes seni tersebut. Untuk menentukan keikutsertaan 
+salah satu anggotanya, ketua komunitas mengadakan seleksi internal 
+terlebih dahulu agar dapat menentukan anggota yang dapat mengikuti kontes 
+tersebut. Seleksi yang diadakan yaitu berupa “Menulis Sajak Syair” 
+dengan tema tertentu dan Adapun untuk kriteria yang digunakan sebagai 
+penimbang untuk menentukan anggota yang akan diikutsertakan berupa yaitu 
+Kerapihan dalam tulisan, keserasian kata, ketepatan ejaan, kesopanan, 
+dan kekreatifan penulis. Nilai hasil yang didapat tersebut akan diserahkan 
+kepada tim ahli yang akan menentukan salah satu anggota yang dapat 
+mengikuti kontes tersebut.
